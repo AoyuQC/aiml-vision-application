@@ -1,0 +1,3 @@
+[submodule "aws/amazon-rekognition-code-samples"]
+	path = aws/amazon-rekognition-code-samples
+	url = git@github.com:AoyuQC/amazon-rekognition-code-samples.git
